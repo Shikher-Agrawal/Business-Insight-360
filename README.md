@@ -19,7 +19,7 @@ It is a project management tool which is used to describe the whole project. It 
 2. Perform **ETL** in the loaded datasets.
 3. Build the data model between **facts and dimensions** tables inside Power BI.
 4. Created appropriate **measures** and **calculated columns** using Data Analysis Expressions (DAX).
-5. Created Important **Key Performance Indicator (KPIs)** for all each of the 5 views.
+5. Created Important **Key Performance Indicator (KPIs)** for finance, marketing and executive views.
 6. After the initial report reviewed by the stakeholders, made changes to the report based on the review commends like creating a **toggle button** to switch between visuals, **tool tip** to show trend etc.
 
 
